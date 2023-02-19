@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbarMonstera{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+#navMid{
+    display: flex;
+    width: 40vw;
+    justify-content: space-around;
+    margin-left: -3rem;
+}
+#navEnd{
+    display: flex;
+    width: 140px;
+    justify-content: space-around;
+   
+}
+#navMid div>h4:hover{
+    cursor: pointer;
+    border-bottom: 2px solid black;
+
+}
+#midWhole{
+    display: flex;
+}
+#imgMain{
+    margin-left: 27px;
+    height: 600px;
+    width: 500px;
+}
+#midWholePart1{
+    display: flex;
+    flex-direction: column;
+}
+#midWholePart13{
+    display: flex;
+}
+.midWholePart13Parts{
+    display: flex;
+}
+#midWholePart11{
+    
+    width: 30vw;
+    display: flex;
+    margin-top: 5rem;
+    margin-left: 4rem;
+    padding-left: 20px;
+}
+li{
+    padding-right: 20px;
+}
+#monstera{
+    margin-bottom: 0;
+    width: 40vw;
+    font-size: 100px;
+    font-weight: 1200;
+
+}
+#midWholePart12{
+  margin-top: 3rem;
+  margin-left: 4rem;
+  
+}
+#midWholePart121{
+    background-color: #306e5a;
+    display: flex;
+    width: 12rem;
+    color: rgb(243, 233, 233);
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+    font-size: small;
+    padding: .4rem;
+}
+#midWholePart121 h1{
+    font-weight: 400;
+    letter-spacing: 3px;
+
+
+}
+
+#midWholePart122{
+    padding-top: 3px;
+}
+
+#midWholePart13{
+    margin-top: 4rem;
+    margin-left: 3rem;
+    font-size: small;
+
+}
+#light, #care,#feeding{
+    height: 40px;
+    width: 40px;
+    padding-right: 9px;
+}
