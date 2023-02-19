@@ -1,7 +1,7 @@
 Hey dear visitor
 # Welcome
 ## I am Muhammad Ameen , A frontend developer.
-#### This repository is  all about a landing page for a restaurant.
+#### This repository is  all about a landing page named as Monstera.
 it is made using HTML CSS. Prime focus was on learning positions in css like Relative , Static , Absolute and all.
 I also learnt various flex-box properties.
 - learnt How to 
